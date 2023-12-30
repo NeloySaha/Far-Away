@@ -23,11 +23,11 @@ Forget the hassle of packing anxiety – FarAway is here to ensure you have an u
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/faraway-journey-planner.git
+   git clone https://github.com/your-username/Far-Away.git
    ```
 2. **Install Dependencies:**
    ```bash
-   cd faraway-journey-planner
+   cd Far-Away
    yarn
    ```
 3. **Run App on your local machine:**
