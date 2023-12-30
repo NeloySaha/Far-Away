@@ -4,7 +4,7 @@
 
 Forget the hassle of packing anxiety – FarAway is here to ensure you have an unforgettable journey. 🚀
 
-**_*🚀 Visit Live Demo [HERE](https://fast-react-pizza-co-fawn.vercel.app/)*_**
+**_*🚀 Visit Live Demo [HERE](https://far-away-roan.vercel.app/)*_**
 
 **Features:**
 
