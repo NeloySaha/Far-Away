@@ -1,5 +1,3 @@
-import React from "react";
-
 export const Stats = ({ initialItems }) => {
   const packedItems = initialItems.reduce(
     (acc, item) => (item.packed ? 1 + acc : 0 + acc),

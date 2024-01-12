@@ -35,16 +35,10 @@ Forget the hassle of packing anxiety – FarAway is here to ensure you have an u
    yarn dev
    ```
 
-### Contribution:
+### Contribution 🤝
 
 Contributions are Welcome! Whether you're fixing a bug or adding a cool feature, feel free to submit a pull request.
 
-### Feedback:
+## Acknowledgements 🪪
 
-Have suggestions or found a bug? [Open an issue here](https://github.com/your-username/faraway-journey-planner/issues). Your feedback is valuable!
-
-_"Adventure awaits – plan it with FarAway!"_ 🌴✈️
-
-### Acknowledgement:
-
-CSS part for this project is done by Jonas Schmedtmann. However, the website is being made functional completely by me.
+This Project's css part has been by _**Jonas Schmedtmann**_. And the project is made functional by me 😎.

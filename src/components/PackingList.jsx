@@ -10,7 +10,7 @@ export const PackingList = ({
 }) => {
   useEffect(() => {
     handleSort();
-  }, [sortCategory]);
+  }, [sortCategory, handleSort]);
 
   const clearItems = () => {
     if (confirm("Are you sure you want to delete all items?")) {
